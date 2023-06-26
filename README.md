@@ -84,7 +84,7 @@ Replace `<output_filename>` with the desired name of the file to save the receiv
 
 ## Design of Sender and Receiver
 
-See Doc: [https://docs.google.com/document/d/1le0dxFglva1m8F39k4EDe-hh32uZOH5evqC40YH5QPw/edit?usp=sharing]()
+See Doc: [https://docs.google.com/document/d/e/2PACX-1vRDsvuO8jlepSSB3GkU9di21EwCgj4a7nQiF1RRQj5lDwqh17PG-ebIcyATlkuBo88i4tqWndIuOHsh/pub](https://docs.google.com/document/d/e/2PACX-1vRDsvuO8jlepSSB3GkU9di21EwCgj4a7nQiF1RRQj5lDwqh17PG-ebIcyATlkuBo88i4tqWndIuOHsh/pub)
 
 ## Team Contributions
 
