@@ -90,11 +90,11 @@ See Doc: [https://docs.google.com/document/d/1le0dxFglva1m8F39k4EDe-hh32uZOH5evq
 
 **Abel Mendoza**: Coordinated with group to get the sender and receiver scripts finished with all the rubric requirements. Wrote documentation for the project, put together a github repository with all the files, and also included a LICENSE and README.
 
-**Christian Marshall**:
+**Christian Marshall**: Collaborated on the sender file and implementing all the to-dos such as allocating and deallocating shared memory
 
-**Fernando Cerna**:
+**Fernando Cerna**: Collaborated on the sender file and implementing all the to-dos such as allocating and deallocating shared memory
 
-**Gilbert Espino Solis**:
+**Gilbert Espino Solis**: Helped collaborate and implement receiver file for all the to dos.
 
 **Sohrab Bahari**:
 
