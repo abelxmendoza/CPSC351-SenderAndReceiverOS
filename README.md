@@ -1,6 +1,6 @@
 # CPSC351-OperatingSystems-Sender and Receiver
 
-## **Authors: Team Kernel Kings -**
+## **Authors: The Kernel Kings**
 
 **Abel Mendoza: abel_mendoza10@csu.fullerton.edu**
 
